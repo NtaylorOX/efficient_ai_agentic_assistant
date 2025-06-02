@@ -1,7 +1,6 @@
 
 
-# Building an AI Planner - Tether 
-<img src="tether_logo.png" alt="tether_logo" width="100" height="50"/> 
+# Building an AI Planner
 
 <img src="Gemini_Generated_Image.jpeg" alt="ai_assistant" width="700" height="400"/> 
  
